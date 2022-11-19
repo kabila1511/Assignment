@@ -3,6 +3,9 @@ public class Add {
         int a=1;
         int b=2;
         int c= a+b;
+        int d=a-b;
+        System.out.println(c);
+        System.out.println(d);
         System.out.println(c);
     }
 }
